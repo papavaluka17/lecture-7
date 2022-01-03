@@ -1,0 +1,69 @@
+/*header*/
+
+header{
+	margin-top: 40px;
+	width: 1170px;
+}
+
+ul{
+	display: flex;
+	justify-content: space-around;
+}
+
+nav{
+	width: 500px;
+	margin-left: 700px;
+}
+
+h1{
+	margin-left: 110px;
+	font-size: 30px;
+	color: #ead1ae;
+}
+
+h1::before{
+	content:"Web ";
+	color: #0000b3;
+}
+
+.li-a{
+	font-size: 14px;
+	color: #000080;
+}
+
+/*section 1 start*/
+
+.s-1{
+	margin-top: 100px;
+
+}
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: top;
+}
+
+.p-1{
+	font-size: 40px;
+	color: #4d2800;
+}
+
+.p-2{
+	margin-top: 30px;
+	font-size: 12px;
+	color: #525151;
+}
+
+button{
+	margin-top: 100px;
+}
+.img-size{
+	width: 500px;
+	height: 300px;
+	object-fit: cover;
+}
+/*section 1 end*/
+
